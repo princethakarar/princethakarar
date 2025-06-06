@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Thakarar</h1>
-<h3 align="center">"Computer Engineering student at Atmiya University | Web Developer | Enthusiastic about continuous learning & crafting impactful projects"</h3>
+<h3 align="center">"Computer Engineering student at Pandit Deendayal Energy University | Web Developer | Enthusiastic about continuous learning & crafting impactful projects"</h3>
 
 - 📫 How to reach me **prince.thakarar40@gmail.com**
 
