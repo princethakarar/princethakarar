@@ -37,12 +37,12 @@ private:
     string degree    = "B.Tech — Computer Engineering";
 
     map<string, vector<string>> strengths = {
-        { "Languages",  { "C", "C++", "Python", "JavaScript"                      } },
-        { "Frontend",   { "React.js", "HTML", "CSS", "Tailwind CSS", "Bootstrap"  } },
-        { "Backend",    { "Node.js", "Express.js", "PHP"                           } },
-        { "Databases",  { "MySQL", "MongoDB"                                       } },
-        { "Tools",      { "Git", "GitHub", "Postman", "VS Code"                   } },
-        { "Concepts",   { "DSA", "OOP", "DBMS", "OS", "Computer Networks"         } }
+        { "Languages",  { "C", "C++", "Python", "JavaScript"                                  } },
+        { "Frontend",   { "React.js", "Next.js", "HTML", "CSS", "Tailwind CSS", "Bootstrap"   } },
+        { "Backend",    { "Node.js", "Express.js", "PHP"                                       } },
+        { "Databases",  { "MySQL", "MongoDB"                                                   } },
+        { "Tools",      { "Git", "GitHub", "Postman", "VS Code"                               } },
+        { "Concepts",   { "DSA", "OOP", "DBMS", "OS", "Computer Networks"                    } }
     };
 
     map<string, string> dsa_profile = {
@@ -60,7 +60,7 @@ private:
 public:
     void introduce() {
         cout << "Hey! I'm " << name << " — a builder & problem solver 👋" << "\n";
-        cout << "💭 Motto: Exploring Horizons, Powered by Technology 🚀" << "\n";
+        cout << "Exploring Horizons, Powered by Technology 🚀" << "\n";
     }
 };
 
@@ -85,7 +85,7 @@ int main() {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
 
 **Backend & Databases**
 
