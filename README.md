@@ -35,7 +35,7 @@ using namespace std;
 class PrinceThakarar {
 private:
     string name      = "Prince Thakarar";
-    string role      = "Full Stack Developer & AI/ML Enthusiast";
+    string role      = "Software Developer | AI Solutions";
     string location  = "Gandhinagar, Gujarat, India 🇮🇳";
     string degree    = "B.Tech — Computer Engineering (CGPA: 9.24/10)";
 
