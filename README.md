@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:0d3b2e,100:0a2a1f&height=220&section=header&text=Prince%20Thakarar&fontSize=56&fontColor=00e5a0&animation=fadeIn&fontAlignY=40&stroke=00e5a0&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=19&descColor=cdd9e5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:0d3b2e,100:0a2a1f&height=220&section=header&text=Prince%20Thakarar&fontSize=56&fontColor=00e5a0&animation=fadeIn&fontAlignY=40&stroke=00e5a0&strokeWidth=1&desc=Software%20Developer%20%7C%20AI%20Solutions&descAlignY=60&descSize=19&descColor=cdd9e5" width="100%"/>
 
 
 <div align="center">
@@ -57,7 +57,7 @@ private:
 
     vector<string> superpowers = {
         "Turning complex problems into elegant, production-ready solutions",
-        "Building end-to-end apps trusted by clients",
+        "Building end-to-end apps trusted by real clients (30+ and counting)",
         "Shipping AI-powered developer tools with RAG & LLM pipelines",
         "Consistent competitive programmer"
     };
@@ -209,7 +209,7 @@ Client-facing fintech dashboard with Supabase RLS, presented to **30+ clients** 
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-00e5a0?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a1628" /><br/>
-      <b>Peak Rating: 1885</b> &nbsp;|&nbsp; <b>Top 5.02% Globally (Knight)</b>
+      <b>Peak Rating: 1885</b> &nbsp;|&nbsp; <b>Top 5.02% Globally 🔥</b>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Codeforces-200%2B%20Solved-00e5a0?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a1628" /><br/>
