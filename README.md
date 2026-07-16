@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:0d3b2e,100:0a2a1f&height=220&section=header&text=Prince%20Thakarar&fontSize=56&fontColor=00e5a0&animation=fadeIn&fontAlignY=40&stroke=00e5a0&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=19&descColor=cdd9e5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:0d3b2e,100:0a2a1f&height=220&section=header&text=Prince%20Thakarar&fontSize=56&fontColor=00e5a0&animation=fadeIn&fontAlignY=40&stroke=00e5a0&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=19&descColor=cdd9e5" width="100%"/>
 
 
 <div align="center">
@@ -7,6 +7,9 @@
   </a>
   <a href="mailto:prince.thakarar40@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0a1628?style=for-the-badge&logo=gmail&logoColor=00e5a0" />
+  </a>
+  <a href="https://prince-thakarar.is-a.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/PrinceThakarar/">
     <img src="https://img.shields.io/badge/LeetCode-0a1628?style=for-the-badge&logo=leetcode&logoColor=00e5a0" />
@@ -32,28 +35,30 @@ using namespace std;
 class PrinceThakarar {
 private:
     string name      = "Prince Thakarar";
-    string role      = "Full Stack Developer";
+    string role      = "Full Stack Developer & AI/ML Enthusiast";
     string location  = "Gandhinagar, Gujarat, India 🇮🇳";
-    string degree    = "B.Tech — Computer Engineering";
+    string degree    = "B.Tech — Computer Engineering (CGPA: 9.24/10)";
 
     map<string, vector<string>> strengths = {
-        { "Languages",  { "C", "C++", "Python", "JavaScript"                                  } },
-        { "Frontend",   { "React.js", "Next.js", "HTML", "CSS", "Tailwind CSS", "Bootstrap"   } },
-        { "Backend",    { "Node.js", "Express.js", "PHP"                                       } },
-        { "Databases",  { "MySQL", "MongoDB"                                                   } },
-        { "Tools",      { "Git", "GitHub", "Postman", "VS Code"                               } },
-        { "Concepts",   { "DSA", "OOP", "DBMS", "OS", "Computer Networks"                    } }
+        { "Languages",  { "C", "C++", "Python", "JavaScript", "TypeScript"                      } },
+        { "Frontend",   { "React.js", "Next.js", "Tailwind CSS", "Redux", "Zustand", "ShadCN UI" } },
+        { "Backend",    { "Node.js", "Express.js", "REST APIs", "PHP", "JWT Auth"                } },
+        { "Databases",  { "MySQL", "PostgreSQL", "MongoDB", "Supabase", "Upstash Redis"          } },
+        { "AI / ML",    { "RAG", "LangChain", "Groq API", "ChromaDB", "Vector Embeddings"        } },
+        { "Tools",      { "Git", "GitHub", "Docker", "Postman", "Vercel", "Octokit"              } },
+        { "Concepts",   { "DSA", "System Design", "OOP", "DBMS", "OS", "Computer Networks"       } }
     };
 
     map<string, string> dsa_profile = {
-        { "LeetCode",   "450+ solved  |  Peak: 1633  |  Top 19.34% 🔥" },
-        { "Codeforces", "100+ solved  |  Peak: 1062"                   },
-        { "CodeChef",   "Peak Rating: 1223"                            }
+        { "LeetCode",   "600+ solved  |  Peak: 1885  |  Top 5.02% 🔥" },
+        { "Codeforces", "200+ solved  |  Peak: 1267 (Pupil)"          },
+        { "CodeChef",   "Peak Rating: 1641 (3-Star)"                  }
     };
 
     vector<string> superpowers = {
-        "Turning complex problems into elegant solutions",
-        "Building end-to-end production-ready apps",
+        "Turning complex problems into elegant, production-ready solutions",
+        "Building end-to-end apps trusted by clients",
+        "Shipping AI-powered developer tools with RAG & LLM pipelines",
         "Consistent competitive programmer"
     };
 
@@ -81,21 +86,116 @@ int main() {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb,redis,prisma&theme=dark" />
 
-**Tools**
+**AI / ML**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Groq_API-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SentenceTransformers-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Llama_3.3-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-0a1628?style=for-the-badge" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Supabase-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Render-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Brevo-0a1628?style=for-the-badge" />
 
 </div>
+
+<br>
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>Fintech Software Developer Intern</b> · Rising Capital Group &nbsp;<i>(Jun 2026 – Jul 2026)</i></summary>
+<br>
+
+📍 WTC, GIFT City
+
+- Engineered a full-stack analytics dashboard enabling teams to upload raw financial datasets and instantly generate **50+ key metrics** with interactive visual graphs for client-facing reporting.
+- Designed and automated a personalized email marketing pipeline using the **Brevo API**, cutting campaign setup time from hours to minutes and enabling outreach to **20,000+ people** without manual intervention.
+- Resolved critical bugs and redesigned UI/UX on the analytics dashboard, improving load performance and usability; collaborated with the trading team to refine algorithmic trading strategy logic across **2 trading strategies**.
+
+</details>
+
+<details>
+<summary><b>Web Development Intern</b> · Growthwiser &nbsp;<i>(May 2025 – Jul 2025)</i></summary>
+<br>
+
+📍 Remote
+
+- Built and deployed **4 client websites** from scratch — including domain registration and hosting setup — strengthening clients' online presence.
+- Collaborated directly with clients to gather requirements and translate feedback into iterative improvements, refining communication and delivery skills.
+
+</details>
+
+<br>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Workflow Orchestrator
+`MERN` `Flask` `Socket.io` `React Flow` `ChromaDB` `Llama 3.3`
+
+[![Live](https://img.shields.io/badge/Live-00e5a0?style=flat-square)](https://workflow-orchestrator-rho.vercel.app/)
+
+Real-time collaborative workflow canvas (React Flow + Socket.io) with JWT-based RBAC (3 roles) and email OTP auth. Ships a Python RAG pipeline — SentenceTransformers + ChromaDB + Llama 3.3 via Groq — that auto-parses requirement PDFs into structured execution plans, plus bidirectional GitHub Issue sync via Octokit.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ DevPilot
+`Next.js` `TypeScript` `WebContainers` `Monaco` `Prisma` `Zustand`
+
+[![Live](https://img.shields.io/badge/Live-00e5a0?style=flat-square)](https://dev-pilot-two.vercel.app/)
+
+AI-powered, browser-based IDE built on the WebContainers API — runs full-stack Node.js environments client-side with Monaco Editor and Xterm.js. Ships a low-latency AI coding assistant (Groq/Llama 3) delivering real-time inline suggestions.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📊 RCG Dashboard
+`Next.js` `TypeScript` `Supabase` `Upstash Redis` `Recharts`
+
+[![Live](https://img.shields.io/badge/Live-00e5a0?style=flat-square)](https://rcg-dashboard-red.vercel.app/)
+
+Client-facing fintech dashboard with Supabase RLS, presented to **30+ clients** as a secure hub for portfolio performance, NAV, and margins. Automated PDF generation and SheetJS-powered data ingestion shifted reporting from weekly to daily, with real-time insights via Upstash Redis.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🎖️ Achievements
+
+- ✅ **GATE 2026 Qualified** — Score 351
+- 🥉 **3rd Rank**, Diploma in Computer Engineering — Atmiya University
+- 🎓 **9.24 CGPA**, B.Tech Computer Engineering — PDEU
 
 <br>
 
@@ -108,16 +208,16 @@ int main() {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-00e5a0?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a1628" /><br/>
-      <b>Peak Rating: 1633</b> &nbsp;|&nbsp; <b>Top 19.34% Globally 🔥</b>
+      <img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-00e5a0?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a1628" /><br/>
+      <b>Peak Rating: 1885</b> &nbsp;|&nbsp; <b>Top 5.02% Globally (Knight)</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Codeforces-100%2B%20Solved-00e5a0?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a1628" /><br/>
-      <b>Peak Rating: 1062</b>
+      <img src="https://img.shields.io/badge/Codeforces-200%2B%20Solved-00e5a0?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a1628" /><br/>
+      <b>Peak Rating: 1267 (Pupil)</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/CodeChef-Rated-00e5a0?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a1628" /><br/>
-      <b>Peak Rating: 1223</b>
+      <img src="https://img.shields.io/badge/CodeChef-3--Star-00e5a0?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a1628" /><br/>
+      <b>Peak Rating: 1641</b>
     </td>
   </tr>
 </table>
