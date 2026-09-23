@@ -37,34 +37,34 @@ private:
     string name      = "Prince Thakarar";
     string role      = "Software Developer | AI Solutions";
     string location  = "Gandhinagar, Gujarat, India 🇮🇳";
-    string degree    = "B.Tech — Computer Engineering (CGPA: 9.24/10)";
+    string degree    = "B.Tech — Computer Engineering, PDEU (CGPA: 9.24/10)";
 
     map<string, vector<string>> strengths = {
         { "Languages",  { "C", "C++", "Python", "JavaScript", "TypeScript"                      } },
         { "Frontend",   { "React.js", "Next.js", "Tailwind CSS", "Redux", "Zustand", "ShadCN UI" } },
-        { "Backend",    { "Node.js", "Express.js", "REST APIs", "PHP", "JWT Auth"                } },
-        { "Databases",  { "MySQL", "PostgreSQL", "MongoDB", "Supabase", "Upstash Redis"          } },
-        { "AI / ML",    { "RAG", "LangChain", "Groq API", "ChromaDB", "Vector Embeddings"        } },
-        { "Tools",      { "Git", "GitHub", "Docker", "Postman", "Vercel", "Octokit"              } },
+        { "Backend",    { "Node.js", "Express.js", "Flask", "REST APIs", "JWT Auth", "Socket.io" } },
+        { "Databases",  { "MySQL", "PostgreSQL", "MongoDB", "Supabase", "Redis"                  } },
+        { "AI / ML",    { "RAG Pipelines", "LangChain", "Groq API / LLMs", "ChromaDB"            } },
+        { "Tools",      { "Git", "GitHub", "Docker", "AWS (Fundamentals)", "Postman", "Vercel"   } },
         { "Concepts",   { "DSA", "System Design", "OOP", "DBMS", "OS", "Computer Networks"       } }
     };
 
     map<string, string> dsa_profile = {
-        { "LeetCode",   "600+ solved  |  Peak: 1885  |  Top 5.02% 🔥" },
+        { "LeetCode",   "650+ solved  |  Peak: 1885  |  Top 5.13% 🔥" },
         { "Codeforces", "200+ solved  |  Peak: 1267 (Pupil)"          },
         { "CodeChef",   "Peak Rating: 1641 (3-Star)"                  }
     };
 
     vector<string> superpowers = {
-        "Turning complex problems into elegant, production-ready solutions",
-        "Building end-to-end apps trusted by real clients (30+ and counting)",
-        "Shipping AI-powered developer tools with RAG & LLM pipelines",
+        "Taking strong ownership of projects — from initial design to deployment",
+        "Building fintech tools trusted by real clients (50+ and counting)",
+        "Shipping AI-powered developer tools with RAG pipelines, agents & LLMs",
         "Consistent competitive programmer"
     };
 
 public:
     void introduce() {
-        cout << "Hey! I'm " << name << " — a builder & problem solver 👋" << "\n";
+        cout << "Hey! I'm " << Prince << " — a builder & problem solver 👋" << "\n";
         cout << "Exploring Horizons, Powered by Technology 🚀" << "\n";
     }
 };
@@ -94,7 +94,7 @@ int main() {
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb,redis,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,mysql,postgres,mongodb,redis,prisma&theme=dark" />
 
 **AI / ML**
 
@@ -104,11 +104,12 @@ int main() {
 <img src="https://img.shields.io/badge/ChromaDB-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SentenceTransformers-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Llama_3.3-0a1628?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Codestral-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-0a1628?style=for-the-badge" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode&theme=dark" />
 <img src="https://img.shields.io/badge/Supabase-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Render-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Brevo-0a1628?style=for-the-badge" />
@@ -127,9 +128,9 @@ int main() {
 
 📍 WTC, GIFT City
 
-- Engineered a full-stack analytics dashboard enabling teams to upload raw financial datasets and instantly generate **50+ key metrics** with interactive visual graphs for client-facing reporting.
-- Designed and automated a personalized email marketing pipeline using the **Brevo API**, cutting campaign setup time from hours to minutes and enabling outreach to **20,000+ people** without manual intervention.
-- Resolved critical bugs and redesigned UI/UX on the analytics dashboard, improving load performance and usability; collaborated with the trading team to refine algorithmic trading strategy logic across **2 trading strategies**.
+- Engineered an end-to-end financial data ingestion pipeline processing **60+ raw transaction fields** into **40+ automated financial metrics**, accelerating trade reporting cycles by **5x** (from weekly to daily).
+- Resolved **20+ critical bugs** in the premarket analyzer and trading dashboard, and assisted in the system's migration to a live server for real-time market operations.
+- Collaborated directly with the trading team to design and refine execution logic across **2 algorithmic trading strategies**.
 
 </details>
 
@@ -139,8 +140,8 @@ int main() {
 
 📍 Remote
 
-- Built and deployed **4 client websites** from scratch — including domain registration and hosting setup — strengthening clients' online presence.
-- Collaborated directly with clients to gather requirements and translate feedback into iterative improvements, refining communication and delivery skills.
+- Built and deployed **4+ responsive client websites** from scratch, focusing on intuitive UI/UX and fast load times — increasing traffic by **25%**.
+- Took ownership of product requirements through client consultations, converting raw feedback into actionable features with **100% on-time delivery**.
 
 </details>
 
@@ -155,21 +156,23 @@ int main() {
 <td width="50%" valign="top">
 
 ### 🧩 Workflow Orchestrator
-`MERN` `Flask` `Socket.io` `React Flow` `ChromaDB` `Llama 3.3`
+`MERN` `Flask` `Socket.io` `React Flow` `Webhooks` `ChromaDB` `LangChain` `Llama 3.3`
 
 [![Live](https://img.shields.io/badge/Live-00e5a0?style=flat-square)](https://workflow-orchestrator-rho.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-0a1628?style=flat-square&logo=github)](https://github.com/princethakarar/Workflow-Orchestrator)
 
-Real-time collaborative workflow canvas (React Flow + Socket.io) with JWT-based RBAC (3 roles) and email OTP auth. Ships a Python RAG pipeline — SentenceTransformers + ChromaDB + Llama 3.3 via Groq — that auto-parses requirement PDFs into structured execution plans, plus bidirectional GitHub Issue sync via Octokit.
+Real-time collaborative workflow canvas (React Flow + Socket.io) secured by JWT-based RBAC (3 roles) and email OTP auth. Ships a Python RAG pipeline — ChromaDB + Llama 3.3 — that auto-parses unstructured requirement PDFs into structured, actionable tasks, plus bidirectional GitHub Issue sync via Octokit/Webhooks with custom MongoDB triggers managing developer availability and project status.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖥️ DevPilot
-`Next.js` `TypeScript` `WebContainers` `Monaco` `Prisma` `Zustand`
+`Next.js` `TypeScript` `WebContainers` `Monaco` `Xterm.js` `MongoDB` `Zustand` `ShadCN`
 
 [![Live](https://img.shields.io/badge/Live-00e5a0?style=flat-square)](https://dev-pilot-two.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-0a1628?style=flat-square&logo=github)](https://github.com/princethakarar/DevPilot)
 
-AI-powered, browser-based IDE built on the WebContainers API — runs full-stack Node.js environments client-side with Monaco Editor and Xterm.js. Ships a low-latency AI coding assistant (Groq/Llama 3) delivering real-time inline suggestions.
+AI-powered, browser-based IDE built on the WebContainers API — runs full-stack Node.js environments client-side with Monaco Editor and Xterm.js, no local setup. Features a 3-layer client-side caching architecture (IndexedDB → CDN → Origin) for fast loads, and an AI coding assistant (Groq/Llama 3 + Mistral's Codestral) delivering real-time Fill-in-the-Middle inline suggestions.
 
 </td>
 </tr>
@@ -177,11 +180,12 @@ AI-powered, browser-based IDE built on the WebContainers API — runs full-stack
 <td colspan="2" valign="top">
 
 ### 📊 RCG Dashboard
-`Next.js` `TypeScript` `Supabase` `Upstash Redis` `Recharts`
+`Next.js` `TypeScript` `Supabase` `Upstash Redis` `Vercel Blob` `Recharts` `SheetJS`
 
 [![Live](https://img.shields.io/badge/Live-00e5a0?style=flat-square)](https://rcg-dashboard-red.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-0a1628?style=flat-square&logo=github)](https://github.com/princethakarar/RCG-Dashboard)
 
-Client-facing fintech dashboard with Supabase RLS, presented to **30+ clients** as a secure hub for portfolio performance, NAV, and margins. Automated PDF generation and SheetJS-powered data ingestion shifted reporting from weekly to daily, with real-time insights via Upstash Redis.
+Secure, centralized fintech dashboard enhancing transparency for **50+ clients** — tracking portfolio performance, Net Asset Value (NAV), and trading margins. Automated data-ingestion routines instantly convert raw transaction datasets into visual P&L analytics and downloadable PDF reports.
 
 </td>
 </tr>
@@ -194,8 +198,10 @@ Client-facing fintech dashboard with Supabase RLS, presented to **30+ clients** 
 ## 🎖️ Achievements
 
 - ✅ **GATE 2026 Qualified** — Score 351
-- 🥉 **3rd Rank**, Diploma in Computer Engineering — Atmiya University
+- 🥉 **3rd Rank**, Diploma in Computer Engineering — Atmiya University (93.89%)
 - 🎓 **9.24 CGPA**, B.Tech Computer Engineering — PDEU
+- ☁️ **AWS Certified** — Technical Essentials & Migration Essentials
+- 🤝 **Tech Subcommittee** — Mind Ripple & IEEE CS Student Branch Chapter
 
 <br>
 
@@ -208,8 +214,8 @@ Client-facing fintech dashboard with Supabase RLS, presented to **30+ clients** 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-00e5a0?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a1628" /><br/>
-      <b>Peak Rating: 1885</b> &nbsp;|&nbsp; <b>Top 5.02% Globally 🔥</b>
+      <img src="https://img.shields.io/badge/LeetCode-650%2B%20Solved-00e5a0?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a1628" /><br/>
+      <b>Peak Rating: 1885</b> &nbsp;|&nbsp; <b>Top 5.13% Globally 🔥</b>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Codeforces-200%2B%20Solved-00e5a0?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a1628" /><br/>
