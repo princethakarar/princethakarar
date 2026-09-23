@@ -255,7 +255,7 @@ Secure, centralized fintech dashboard enhancing transparency for **50+ clients**
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princethakarar&show_icons=true&hide_border=true&count_private=true&bg_color=0a1628&title_color=00e5a0&icon_color=00e5a0&text_color=cdd9e5&hide=issues&hide_rank=false" height="175"/>
 </div>
 
@@ -263,7 +263,7 @@ Secure, centralized fintech dashboard enhancing transparency for **50+ clients**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=princethakarar&bg_color=0a1628&color=00e5a0&line=00e5a0&point=ffffff&area=true&area_color=00e5a020&hide_border=true&radius=8" width="95%" />
-</div>
+</div> -->
 
 <br>
 
