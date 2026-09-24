@@ -90,29 +90,22 @@ int main() {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,mysql,postgres,mongodb,redis,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,mysql,postgres,mongodb,redis&theme=dark" />
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/Groq_API-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ChromaDB-0a1628?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SentenceTransformers-0a1628?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Llama_3.3-0a1628?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Codestral-0a1628?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-0a1628?style=for-the-badge" />
 
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-0a1628?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Render-0a1628?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Brevo-0a1628?style=for-the-badge" />
 
 </div>
 
