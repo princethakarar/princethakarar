@@ -195,18 +195,6 @@ Secure, centralized fintech dashboard enhancing transparency for **50+ clients**
 
 ---
 
-## 🎖️ Achievements
-
-- ✅ **GATE 2026 Qualified** — Score 351
-- 🥉 **3rd Rank**, Diploma in Computer Engineering — Atmiya University (93.89%)
-- 🎓 **9.24 CGPA**, B.Tech Computer Engineering — PDEU
-- ☁️ **AWS Certified** — Technical Essentials & Migration Essentials
-- 🤝 **Tech Subcommittee** — Mind Ripple & IEEE CS Student Branch Chapter
-
-<br>
-
----
-
 ## 🏆 Competitive Programming
 
 <div align="center">
